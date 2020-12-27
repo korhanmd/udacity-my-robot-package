@@ -1,5 +1,7 @@
 # `my_robot` Package
 
+[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
+
 This is the `my_robot` package of [Go Chase It!](https://github.com/korhanmd/udacity-go-chase-it) project (second project of Udacity's Robotics Software Engineer Nanodegree).
 It includes robot and world definitions and launch files.
 
